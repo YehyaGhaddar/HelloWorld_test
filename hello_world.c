@@ -1,6 +1,6 @@
 include <stdint.h>
 
-int main(void)
+injt main(void)
 {
 	printf("HELLO WORLD\n");
 	
